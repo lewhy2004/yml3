@@ -1,3 +1,0 @@
-/home/lnj/git/yml/CMakeFiles/edit_cache.dir
-/home/lnj/git/yml/CMakeFiles/rebuild_cache.dir
-/home/lnj/git/yml/CMakeFiles/1.dir
